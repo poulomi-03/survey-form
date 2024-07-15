@@ -15,7 +15,7 @@ Form preview
 
 - check out the form interview
 
-![](/assets/images/formpreview.png.png)
+![](/assets/images/formpreview.png)
 
 Files Description
 
