@@ -34,7 +34,7 @@ How to Use
 
 2. Open index.html:
 
-Open the `index.html` file in a web browser to view the form.
+- Open the `index.html` file in a web browser to view the form.
 
 3. Fill Out the Form:
 
